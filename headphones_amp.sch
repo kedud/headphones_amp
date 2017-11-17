@@ -169,7 +169,7 @@ F 0 "C1" H 4975 2800 50  0000 L CNN
 F 1 "10u" H 4975 2600 50  0000 L CNN
 F 2 "w_capacitors:CP_5x11mm" H 4988 2550 50  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/293/e-usa_usr-880000.pdf" H 4950 2700 50  0001 C CNN
-F 4 "0" H 4950 2700 60  0001 C CNN "Mfg_Part_#"
+F 4 "USR1V100MDD1TE" H 4950 2700 60  0001 C CNN "Mfg_Part_#"
 F 5 "Mouser" H 4950 2700 60  0001 C CNN "Distributor"
 F 6 "647-USR1V100MDD1TE" H 4950 2700 60  0001 C CNN "Distributor Part #"
 F 7 "2-THT" H 4950 2700 60  0001 C CNN "Package"
@@ -697,12 +697,12 @@ Wire Wire Line
 Wire Wire Line
 	2800 3450 1750 3450
 Wire Wire Line
-	1750 3300 1750 3450
+	1750 3450 1750 3300
 Connection ~ 1550 3600
 Wire Wire Line
 	1500 3150 1500 3300
 Wire Wire Line
-	1450 3300 1750 3300
+	1750 3300 1450 3300
 Wire Wire Line
 	1500 3150 1850 3150
 Connection ~ 1500 3300
@@ -771,7 +771,7 @@ F 0 "C2" H 5025 4800 50  0000 L CNN
 F 1 "10u" H 5025 4600 50  0000 L CNN
 F 2 "w_capacitors:CP_5x11mm" H 5038 4550 50  0001 C CNN
 F 3 "http://www.mouser.com/ds/2/293/e-usa_usr-880000.pdf" H 5000 4700 50  0001 C CNN
-F 4 "0" H 5000 4700 60  0001 C CNN "Mfg_Part_#"
+F 4 "USR1V100MDD1TE" H 5000 4700 60  0001 C CNN "Mfg_Part_#"
 F 5 "Mouser" H 5000 4700 60  0001 C CNN "Distributor"
 F 6 "647-USR1V100MDD1TE" H 5000 4700 60  0001 C CNN "Distributor Part #"
 F 7 "2-THT" H 5000 4700 60  0001 C CNN "Package"
